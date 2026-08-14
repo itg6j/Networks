@@ -1,15 +1,13 @@
-# 🚀 Projects & Labs Collection
+# 🌐 Networking Projects & Labs
 
-Welcome to my central repository! Here you will find a collection of various projects, hands-on labs, and implementations I am working on across different technology domains.
+Welcome to my networking repository! This space serves as a dedicated collection of my hands-on network topologies, configurations, and simulation labs.
 
 ---
 
-## 📌 Repository Overview
-This repository serves as a showcase for my ongoing technical work, including:
-* **Networking & Topology Simulations:** Network design, VLANs, routing, and security labs.
-* **Scripts & Utilities:** Tools and automation scripts developed in Python, Bash, and C/C++.
-* **Cybersecurity Labs:** Penetration testing concepts, cryptographic algorithms, and security configurations.
-* **Hardware & Embedded Projects:** Microcontroller firmware and radio frequency (RF) experiments.
+## 📌 Overview
+This repository contains various networking projects focusing on network architecture, routing & switching, service deployment, and network security. 
+
+Projects include implementations using tools like **Cisco Packet Tracer** to simulate real-world enterprise environments and core networking concepts.
 
 ---
 
@@ -17,7 +15,7 @@ This repository serves as a showcase for my ongoing technical work, including:
 
 ```text
 .
-├── Networking/          # Cisco Packet Tracer topologies and configs
-├── CyberSecurity/       # Security write-ups, labs, and cryptography tools
-├── Programming/         # Python, C++, and custom utility scripts
-└── Hardware/            # Embedded systems, microcontrollers, and RF projects
+├── Basic-Topologies/       # Fundamental setups (LANs, basic switches, routers)
+├── VLANs-and-Routing/     # VLAN segmentation, Trunking, Inter-VLAN Routing (ROAS)
+├── Network-Services/      # DNS, DHCP, Web servers, and IP assignment configs
+└── Security-and-ACLs/     # Port security, ACLs, and enterprise topology designs
